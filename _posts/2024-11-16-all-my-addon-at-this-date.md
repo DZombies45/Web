@@ -1,10 +1,10 @@
 ---
 layout: post
-title: my addon as of 2024-11-16
-categories: [mcaddon, Misc]
+title: My Addon List
+categories: [Minecraft, Addon, Misc]
 ---
 
-#this is list of my active addon currenly
+### this is list of my active addon currenly
 
 -   [SHome](https://mcpedl.com/shome-addon-1/)
 -   [SlimyPiston](https://mcpedl.com/slimypiston/)
