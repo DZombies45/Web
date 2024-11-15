@@ -1,7 +1,7 @@
 ---
 layout: post
-title: My Addon List 2
-categories: [Minecraft, Addon, Misc]
+title: My Addon List
+categories: Minecraft Addon
 ---
 
 #### this is list of my active addon currenly
