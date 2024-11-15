@@ -29,7 +29,7 @@ footer-links:
     instagram:
     linkedin:
     pinterest:
-    rss: 
+    rss:
     twitter: dzombies45
     stackoverflow:
     youtube: dzombies45 # channel/<your_long_string> or user/<user-name>
@@ -37,6 +37,7 @@ footer-links:
     playconsole:
     mastodon: # <your-mastodon-instance>/@<your-user-name> eg. fosstodon.org/@username
     mcpedl: dzombies45 # your mcpedl username
+    bluesky: dzombies.bsky.social # your bluesky domain
 
 # Enter your Disqus shortname (not your username) to enable commenting on posts
 # You can find your shortname on the Settings page of your Disqus account
